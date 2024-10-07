@@ -12,7 +12,7 @@ Local first and using git for sharing requests with team.
 You can report any Bugs Or Feature requests here.
 
 
-- Website - [www.thorclient.com](https://www.thorclient.com)
+- Website - [www.thorclient.com](https://thorclient.com/)
 
 ## How to Use
 
