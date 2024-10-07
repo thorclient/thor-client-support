@@ -12,7 +12,8 @@ Local first and using git for sharing requests with team.
 You can report any Bugs Or Feature requests here.
 
 
-- Website - [www.thorclient.com](https://thorclient.com/){:target="_blank" rel="noopener noreferrer"}
+- Website <a href="https://thorclient.com/" target="_blank">www.thorclient.com</a>
+
 
 ## How to Use
 
