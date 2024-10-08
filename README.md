@@ -2,18 +2,13 @@ After you install the extension, there will be "hammer" icon on the Action Bar.
 <p align="center">
   <img src="media/sidebar-getting-started.png" />
 </p>
-
-
+- Website <a href="https://thorclient.com/" target="_blank">www.thorclient.com</a>
 
 # Thor Client
 Thor Client is truly offline API Client that manage request collections inside VSCode.
 Local first and using git for sharing requests with team.
 
 You can report any Bugs Or Feature requests [here](https://github.com/thorclient/thor-client-support/issues).
-
-
-- Website <a href="https://thorclient.com/" target="_blank">www.thorclient.com</a>
-
 
 ## How to Use
 
